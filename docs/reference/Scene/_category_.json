@@ -1,0 +1,8 @@
+{
+  "label": "Scene",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+      "description": "API Reference for scene functions and objects"
+  }
+}

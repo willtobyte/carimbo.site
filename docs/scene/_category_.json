@@ -1,0 +1,8 @@
+{
+  "label": "Scene",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+      "description": "Descriptions, errors and arguments for each function "
+  }
+}
